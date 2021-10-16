@@ -1,2 +1,2 @@
 # Reminder_Backend
-The back end (written in python) for my email reminder website.
+Backend for my [email reminder site](https://reminders.pages.dev/)
