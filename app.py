@@ -7,9 +7,9 @@ def main():
 
     from email.message import EmailMessage
 
-    EmailTitle = input("What do you want the title of the email to be?\n")
-    EmailBody = input("What do you want the email body to be?\n")
-    EmailRecipient = input("Who do you want to send an email to?\n")
+    EmailTitle = input("What do you want the title of the email to be?\n|> ")
+    EmailBody = input("What do you want the email body to be?\n|> ")
+    EmailRecipient = input("Who do you want to send the email to?\n|> ")
 
     Email_Address = MyEmail
     EMAIL_PASSWORD = MyEmailPassword
