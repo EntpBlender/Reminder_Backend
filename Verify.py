@@ -19,5 +19,5 @@ def ValidateEmail(EmailRecipient):
 
 
 if __name__ == "__main__":
-  print("no")
+  print("no >:(")
   exit
