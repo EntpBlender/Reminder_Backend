@@ -2,8 +2,8 @@ def main():
     import smtplib
     import Verify
     import os
-    MyEmailPassword = os.environ['MyEmailPassword']
-    MyEmail = os.environ['MyEmail']
+    MyEmailPassword = os.environ['ReminderEmailPassword']
+    MyEmail = os.environ['ReminderEmail']
 
     from email.message import EmailMessage
 
